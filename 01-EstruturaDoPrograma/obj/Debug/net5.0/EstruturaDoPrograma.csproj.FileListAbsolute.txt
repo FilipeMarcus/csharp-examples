@@ -1,0 +1,16 @@
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.exe
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.deps.json
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.json
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.runtimeconfig.dev.json
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.dll
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\bin\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\bin\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csprojAssemblyReference.cache
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.AssemblyInfo.cs
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.dll
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\ref\EstruturaDoPrograma.dll
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.pdb
+C:\gitworkspace\csharp-examples\01-EstruturaDoPrograma\obj\Debug\net5.0\EstruturaDoPrograma.genruntimeconfig.cache
