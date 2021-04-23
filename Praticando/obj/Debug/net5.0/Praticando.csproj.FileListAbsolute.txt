@@ -1,0 +1,16 @@
+C:\gitworkspace\csharp-examples\Praticando\bin\Debug\net5.0\Praticando.exe
+C:\gitworkspace\csharp-examples\Praticando\bin\Debug\net5.0\Praticando.deps.json
+C:\gitworkspace\csharp-examples\Praticando\bin\Debug\net5.0\Praticando.runtimeconfig.json
+C:\gitworkspace\csharp-examples\Praticando\bin\Debug\net5.0\Praticando.runtimeconfig.dev.json
+C:\gitworkspace\csharp-examples\Praticando\bin\Debug\net5.0\Praticando.dll
+C:\gitworkspace\csharp-examples\Praticando\bin\Debug\net5.0\ref\Praticando.dll
+C:\gitworkspace\csharp-examples\Praticando\bin\Debug\net5.0\Praticando.pdb
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\Praticando.csprojAssemblyReference.cache
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\Praticando.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\Praticando.AssemblyInfoInputs.cache
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\Praticando.AssemblyInfo.cs
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\Praticando.csproj.CoreCompileInputs.cache
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\Praticando.dll
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\ref\Praticando.dll
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\Praticando.pdb
+C:\gitworkspace\csharp-examples\Praticando\obj\Debug\net5.0\Praticando.genruntimeconfig.cache

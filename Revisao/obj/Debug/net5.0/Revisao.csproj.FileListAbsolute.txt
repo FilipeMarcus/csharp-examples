@@ -1,0 +1,16 @@
+C:\gitworkspace\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.exe
+C:\gitworkspace\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.deps.json
+C:\gitworkspace\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.json
+C:\gitworkspace\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.runtimeconfig.dev.json
+C:\gitworkspace\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.dll
+C:\gitworkspace\csharp-examples\Revisao\bin\Debug\net5.0\ref\Revisao.dll
+C:\gitworkspace\csharp-examples\Revisao\bin\Debug\net5.0\Revisao.pdb
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.csprojAssemblyReference.cache
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfoInputs.cache
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.AssemblyInfo.cs
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.csproj.CoreCompileInputs.cache
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.dll
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\ref\Revisao.dll
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.pdb
+C:\gitworkspace\csharp-examples\Revisao\obj\Debug\net5.0\Revisao.genruntimeconfig.cache
