@@ -1,0 +1,16 @@
+C:\gitworkspace\DioppNetC\bin\Debug\net5.0\DioppNetC.exe
+C:\gitworkspace\DioppNetC\bin\Debug\net5.0\DioppNetC.deps.json
+C:\gitworkspace\DioppNetC\bin\Debug\net5.0\DioppNetC.runtimeconfig.json
+C:\gitworkspace\DioppNetC\bin\Debug\net5.0\DioppNetC.runtimeconfig.dev.json
+C:\gitworkspace\DioppNetC\bin\Debug\net5.0\DioppNetC.dll
+C:\gitworkspace\DioppNetC\bin\Debug\net5.0\ref\DioppNetC.dll
+C:\gitworkspace\DioppNetC\bin\Debug\net5.0\DioppNetC.pdb
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\DioppNetC.csprojAssemblyReference.cache
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\DioppNetC.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\DioppNetC.AssemblyInfoInputs.cache
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\DioppNetC.AssemblyInfo.cs
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\DioppNetC.csproj.CoreCompileInputs.cache
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\DioppNetC.dll
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\ref\DioppNetC.dll
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\DioppNetC.pdb
+C:\gitworkspace\DioppNetC\obj\Debug\net5.0\DioppNetC.genruntimeconfig.cache
